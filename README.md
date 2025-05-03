@@ -12,4 +12,4 @@ Why Machine Learn - The Elegant Math Behind Modern AI python coding project
 3. If you want to test your custom data file, provide the path when the program ask for it.
 
 #Caustion!
-verion 0.0.1v: Only MCP Model is available.
+- verion 0.0.1: Only MCP Model is available.
