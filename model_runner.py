@@ -1,5 +1,7 @@
 from models.mcp_model.mcp import MCP;
+from version import __version__;
 print("Start machine learning models project!");
+print(f"version {__version__}");
 
 
 modelSelect = 0;
